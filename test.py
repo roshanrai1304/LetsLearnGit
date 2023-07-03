@@ -5,4 +5,4 @@ sum = 0
 for i in a :
     sum += i
     
-print(sum)
+print(f"The sum is {sum}")
